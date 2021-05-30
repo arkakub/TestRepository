@@ -1,12 +1,3 @@
-cheb 4.50
+cheb 4.00
 jajka 8.50
 masło 6.30
-olej 9.99
-mąka 3.50
-cukier 10.00
-ziemniaki 2.25
-piwo 2.00
-brokuł 3.00
-marchew 1.00
-pietruszka 1.00
-słonecznik 2.00
