@@ -3,3 +3,4 @@ jajka 8.50
 masło 6.30
 olej 9.99
 mąka 3.40
+cukier 10.00
