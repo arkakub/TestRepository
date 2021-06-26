@@ -2,7 +2,7 @@ cheb 4.00
 jajka 8.50
 masło 6.30
 olej 9.99
-mąka 3.40
+mąka 3.50
 cukier 10.00
 ziemniaki 2.25
 piwo 2.00
