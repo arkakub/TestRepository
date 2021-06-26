@@ -5,3 +5,4 @@ olej 9.99
 mąka 3.40
 cukier 10.00
 ziemniaki 2.25
+piwo 2.00
