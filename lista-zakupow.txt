@@ -9,3 +9,4 @@ piwo 2.00
 brokuł 3.00
 marchew 1.00
 pietruszka 1.00
+słonecznik 2.00
