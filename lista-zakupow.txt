@@ -6,3 +6,4 @@ mąka 3.50
 cukier 10.00
 ziemniaki 2.25
 piwo 2.00
+brokuł 3.00
